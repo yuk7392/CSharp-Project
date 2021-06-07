@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\C Sharp Project\EX6-8\bin\Debug\netcoreapp3.1\EX6-7.exe
+C:\Users\Administrator\source\repos\C Sharp Project\EX6-8\bin\Debug\netcoreapp3.1\EX6-7.deps.json
+C:\Users\Administrator\source\repos\C Sharp Project\EX6-8\bin\Debug\netcoreapp3.1\EX6-7.runtimeconfig.json
+C:\Users\Administrator\source\repos\C Sharp Project\EX6-8\bin\Debug\netcoreapp3.1\EX6-7.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\C Sharp Project\EX6-8\bin\Debug\netcoreapp3.1\EX6-7.dll
+C:\Users\Administrator\source\repos\C Sharp Project\EX6-8\bin\Debug\netcoreapp3.1\EX6-7.pdb
+C:\Users\Administrator\source\repos\C Sharp Project\EX6-8\obj\Debug\netcoreapp3.1\EX6-7.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\C Sharp Project\EX6-8\obj\Debug\netcoreapp3.1\EX6-7.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\C Sharp Project\EX6-8\obj\Debug\netcoreapp3.1\EX6-7.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\C Sharp Project\EX6-8\obj\Debug\netcoreapp3.1\EX6-7.dll
+C:\Users\Administrator\source\repos\C Sharp Project\EX6-8\obj\Debug\netcoreapp3.1\EX6-7.pdb
+C:\Users\Administrator\source\repos\C Sharp Project\EX6-8\obj\Debug\netcoreapp3.1\EX6-7.genruntimeconfig.cache
