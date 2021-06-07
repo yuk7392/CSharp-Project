@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\C Sharp Project\Prac9-6_1\bin\Debug\net5.0-windows\Prac9-6_1.exe
+C:\Users\Administrator\source\repos\C Sharp Project\Prac9-6_1\bin\Debug\net5.0-windows\Prac9-6_1.deps.json
+C:\Users\Administrator\source\repos\C Sharp Project\Prac9-6_1\bin\Debug\net5.0-windows\Prac9-6_1.runtimeconfig.json
+C:\Users\Administrator\source\repos\C Sharp Project\Prac9-6_1\bin\Debug\net5.0-windows\Prac9-6_1.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\C Sharp Project\Prac9-6_1\bin\Debug\net5.0-windows\Prac9-6_1.dll
+C:\Users\Administrator\source\repos\C Sharp Project\Prac9-6_1\bin\Debug\net5.0-windows\ref\Prac9-6_1.dll
+C:\Users\Administrator\source\repos\C Sharp Project\Prac9-6_1\bin\Debug\net5.0-windows\Prac9-6_1.pdb
+C:\Users\Administrator\source\repos\C Sharp Project\Prac9-6_1\obj\Debug\net5.0-windows\Prac9_6_1.Form1.resources
+C:\Users\Administrator\source\repos\C Sharp Project\Prac9-6_1\obj\Debug\net5.0-windows\Prac9-6_1.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\C Sharp Project\Prac9-6_1\obj\Debug\net5.0-windows\Prac9-6_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\C Sharp Project\Prac9-6_1\obj\Debug\net5.0-windows\Prac9-6_1.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\C Sharp Project\Prac9-6_1\obj\Debug\net5.0-windows\Prac9-6_1.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\C Sharp Project\Prac9-6_1\obj\Debug\net5.0-windows\Prac9-6_1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\C Sharp Project\Prac9-6_1\obj\Debug\net5.0-windows\Prac9-6_1.dll
+C:\Users\Administrator\source\repos\C Sharp Project\Prac9-6_1\obj\Debug\net5.0-windows\ref\Prac9-6_1.dll
+C:\Users\Administrator\source\repos\C Sharp Project\Prac9-6_1\obj\Debug\net5.0-windows\Prac9-6_1.pdb
+C:\Users\Administrator\source\repos\C Sharp Project\Prac9-6_1\obj\Debug\net5.0-windows\Prac9-6_1.genruntimeconfig.cache
