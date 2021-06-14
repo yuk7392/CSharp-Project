@@ -1,0 +1,10 @@
+C:\Users\2sh04\source\repos\CSharp Project\EX11-2\bin\Debug\EX11-2.exe.config
+C:\Users\2sh04\source\repos\CSharp Project\EX11-2\bin\Debug\EX11-2.exe
+C:\Users\2sh04\source\repos\CSharp Project\EX11-2\bin\Debug\EX11-2.pdb
+C:\Users\2sh04\source\repos\CSharp Project\EX11-2\obj\Debug\EX11-2.csprojAssemblyReference.cache
+C:\Users\2sh04\source\repos\CSharp Project\EX11-2\obj\Debug\EX11_2.Form1.resources
+C:\Users\2sh04\source\repos\CSharp Project\EX11-2\obj\Debug\EX11_2.Properties.Resources.resources
+C:\Users\2sh04\source\repos\CSharp Project\EX11-2\obj\Debug\EX11-2.csproj.GenerateResource.cache
+C:\Users\2sh04\source\repos\CSharp Project\EX11-2\obj\Debug\EX11-2.csproj.CoreCompileInputs.cache
+C:\Users\2sh04\source\repos\CSharp Project\EX11-2\obj\Debug\EX11-2.exe
+C:\Users\2sh04\source\repos\CSharp Project\EX11-2\obj\Debug\EX11-2.pdb
