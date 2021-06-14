@@ -1,0 +1,9 @@
+C:\Users\2sh04\source\repos\CSharp Project\EX11-5\bin\Debug\EX11-5.exe.config
+C:\Users\2sh04\source\repos\CSharp Project\EX11-5\bin\Debug\EX11-5.exe
+C:\Users\2sh04\source\repos\CSharp Project\EX11-5\bin\Debug\EX11-5.pdb
+C:\Users\2sh04\source\repos\CSharp Project\EX11-5\obj\Debug\EX11_5.Form1.resources
+C:\Users\2sh04\source\repos\CSharp Project\EX11-5\obj\Debug\EX11_5.Properties.Resources.resources
+C:\Users\2sh04\source\repos\CSharp Project\EX11-5\obj\Debug\EX11-5.csproj.GenerateResource.cache
+C:\Users\2sh04\source\repos\CSharp Project\EX11-5\obj\Debug\EX11-5.csproj.CoreCompileInputs.cache
+C:\Users\2sh04\source\repos\CSharp Project\EX11-5\obj\Debug\EX11-5.exe
+C:\Users\2sh04\source\repos\CSharp Project\EX11-5\obj\Debug\EX11-5.pdb
